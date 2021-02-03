@@ -1,6 +1,6 @@
 <img align=right src="https://ghstat.miao.dev/api?username=George-Miao&show_icons=true&bg_color=60,#000000,#FFFFFFF&cache_seconds=1800"/>
 
-### Hi there 👋, Here's George
+# Hi there 👋, Here's George
 
 - George Miao
 - Undergraduate
