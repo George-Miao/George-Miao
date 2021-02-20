@@ -18,7 +18,7 @@
 - Site: [Miao.dev](https://miao.dev)
 - Twitter: [@miao_dev](https://twitter.com/miao_dev)
 
-#### Language Of Choise (Used most commonly)
+#### Language Of Choice (Used most commonly)
 - Typescript
 - Rust
 - Python
