@@ -24,4 +24,4 @@
 - Python
 
 #### Misc
-- Use gh.popx.dev to proxy your github request!
+- Use [gh.popx.dev](https://gh.popx.dev) to proxy your github request!
