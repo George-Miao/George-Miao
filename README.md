@@ -22,3 +22,6 @@
 - Typescript
 - Rust
 - Python
+
+#### Misc
+- Use gh.pop.tg to proxy your github request! (E.g. https://gh.pop.tg/User/Repo/releases/download/xxxxxx)
