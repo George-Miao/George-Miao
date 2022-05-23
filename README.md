@@ -23,4 +23,6 @@
 - Twitter: [@miao_dev](https://twitter.com/miao_dev)
 
 #### Misc
-- Use [gh.popx.dev](https://gh.popx.dev) to proxy your github request!
+- Use [gh.popx.dev](https://gh.popx.dev) to proxy your github request.
+- Use [cors-proxy.miao.dev/?url=%s](https://cors-proxy.miao.dev) to bypass cors.
+- Use [pop.tg](https://pop.tg) to shorten your url.
