@@ -7,7 +7,7 @@
 - Web dev
 - ArchLinux user
 - Site: [Miao.dev](https://miao.dev)
-- Projects: [Proj.](https://proj.miao.dev)
+- Projects: [Proj.](https://miao.dev/projects)
 
 #### Language Of Choice (Used most commonly)
 - Typescript
