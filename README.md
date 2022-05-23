@@ -18,9 +18,6 @@
 
 #### Contact Me
 - Email: gm@miao.dev
-- Telegram: [@pop_gg](https://t.me/pop_gg)
-- Channel: [@popsDailyDose](https://t.me/popsDailyDose)
-- Twitter: [@miao_dev](https://twitter.com/miao_dev)
 
 #### Misc
 - Use [gh.popx.dev](https://gh.popx.dev) to proxy your github request.
