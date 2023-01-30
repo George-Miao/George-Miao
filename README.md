@@ -20,6 +20,6 @@
 - Email: gm@miao.dev
 
 #### Misc
-- Use [gh.popx.dev](https://gh.popx.dev) to your github request.
+- Use [gh.popx.dev](https://gh.popx.dev) for your github request.
 - Use [cors-proxy.miao.dev/?url=%s](https://cors-proxy.miao.dev) to bypass cors.
 - Use [pop.tg](https://pop.tg) to shorten url.
