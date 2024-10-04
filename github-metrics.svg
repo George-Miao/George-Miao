@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remix-run/examples</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A community-driven repository showcasing examples using Remix 💿</div>
@@ -1638,7 +1638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>doy/rbw</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">unofficial bitwarden cli</div>
@@ -1691,7 +1691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shikijs/shiki</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A beautiful yet powerful syntax highlighter</div>
@@ -1744,7 +1744,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>justdlabs/justd</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Justd is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy &amp; paste into your React projects.</div>
@@ -1794,7 +1794,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Oct 2024, 12:09:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Oct 2024, 13:04:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
