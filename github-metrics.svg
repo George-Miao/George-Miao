@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.4753530626273" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="307.4753530626273" y="0" width="55.230474676803055" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="362.70582773943033" y="0" width="26.19849800563778" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="388.9043257450681" y="0" width="12.905818539951348" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="401.8101442850195" y="0" width="11.223468718998653" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="413.0336130040181" y="0" width="10.91734137667919" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="423.95095438069734" y="0" width="7.798894170433723" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="431.74984855113104" y="0" width="28.250151448869" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.47475123124343" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="307.47475123124343" y="0" width="55.230366572421126" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="362.70511780366456" y="0" width="26.198446726476213" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="388.9035645301408" y="0" width="12.905793278978221" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="401.809357809119" y="0" width="11.223446750942863" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="413.0328045600619" y="0" width="10.91732000781628" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="423.95012456787816" y="0" width="7.798878905407685" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="431.7490034732858" y="0" width="28.250996526714157" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1589,7 +1589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>euclio/fm</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small, general purpose file manager built with GTK4.</div>
@@ -1798,7 +1798,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2024, 20:39:41 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2024, 22:16:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
