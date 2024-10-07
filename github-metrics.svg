@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.13049445760015" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="307.13049445760015" y="0" width="55.682418876191555" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="362.8129133337917" y="0" width="26.169420786060467" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="388.98233411985217" y="0" width="12.891494614990826" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="401.87382873484296" y="0" width="11.2110120024231" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="413.08484073726606" y="0" width="10.905224425076014" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="423.9900651623421" y="0" width="7.790238324659468" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="431.78030348700156" y="0" width="28.219696512998414" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.13289643776193" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="307.13289643776193" y="0" width="55.682854352537646" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="362.8157507902996" y="0" width="26.169625449650397" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="388.98537623994997" y="0" width="12.891595435700197" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="401.87697167565017" y="0" width="11.211099680556366" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="413.08807135620657" y="0" width="10.905309711731693" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="423.99338106793823" y="0" width="7.790299249895642" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="431.78368031783384" y="0" width="28.21631968216613" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1602,7 +1602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudwego/sonic-rs</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast Rust JSON library based on SIMD.</div>
@@ -1655,7 +1655,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>semantic-release/semantic-release</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1815,7 +1815,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Oct 2024, 20:37:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2024, 22:13:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
