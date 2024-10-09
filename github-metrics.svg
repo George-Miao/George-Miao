@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2804 Commits
+                            2805 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.5132797939795" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="308.5132797939795" y="0" width="55.17242024414616" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="363.6857000381257" y="0" width="25.903723348323403" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="389.589423386449" y="0" width="12.760607610811174" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="402.35003099726026" y="0" width="11.09718689380358" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="413.4472178910638" y="0" width="10.938871854552211" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="424.38608974561606" y="0" width="7.711144240799362" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.0972339864154" y="0" width="27.902766013584607" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.51616261866064" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="308.51616261866064" y="0" width="55.17137030119023" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="363.68753291985087" y="0" width="25.903230394928546" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="389.5907633147794" y="0" width="12.76036477371947" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="402.35112808849885" y="0" width="11.096975711963845" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="413.44810380046266" y="0" width="10.938663685481526" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="424.38676748594423" y="0" width="7.710997496075421" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.09776498201967" y="0" width="27.902235017980328" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1608,7 +1608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kaarmu/splash</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library of color palettes for Typst.</div>
@@ -1817,7 +1817,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2024, 08:13:30 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 09:17:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
