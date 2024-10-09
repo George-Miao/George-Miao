@@ -1608,7 +1608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>George-Miao/vow</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple but generic data binding library for Rust</div>
@@ -1661,7 +1661,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>watchexec/watchexec</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.</div>
@@ -1817,7 +1817,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2024, 01:09:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 02:11:26 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
