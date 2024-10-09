@@ -1608,7 +1608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kaarmu/splash</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library of color palettes for Typst.</div>
@@ -1661,7 +1661,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>George-Miao/vow</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple but generic data binding library for Rust</div>
@@ -1817,7 +1817,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2024, 04:10:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 05:08:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
