@@ -1613,7 +1613,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Netflix/vmaf</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Perceptual video quality assessment based on multi-method fusion.</div>
@@ -1666,7 +1666,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GREsau/schemars</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate JSON Schema documents from Rust code</div>
@@ -1719,7 +1719,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oxidecomputer/typify</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">compiler from JSON Schema into idiomatic Rust types</div>
@@ -1822,7 +1822,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2024, 06:08:23 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Oct 2024, 07:01:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
