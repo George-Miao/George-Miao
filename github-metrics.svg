@@ -1581,7 +1581,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lyc8503/UptimeFlare</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks</div>
@@ -1634,7 +1634,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jakedoublev/pnpm-lock-to-npm-lock</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert pnpm-lock.yaml to security-scannable package-lock.json</div>
@@ -1687,7 +1687,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>svanderburg/node2nix</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate Nix expressions to build NPM packages</div>
@@ -1740,7 +1740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ozgunozerk/state-shift</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Macros for implementing Type-State-Pattern on your structs and methods</div>
@@ -1790,7 +1790,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Oct 2024, 05:08:37 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Oct 2024, 06:08:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
