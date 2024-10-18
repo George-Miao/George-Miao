@@ -1581,7 +1581,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>siyuan-note/siyuan</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.</div>
@@ -1687,7 +1687,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>astral-sh/ruff</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extremely fast Python linter and code formatter, written in Rust.</div>
@@ -1790,7 +1790,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2024, 08:13:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2024, 09:16:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
