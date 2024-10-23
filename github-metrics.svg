@@ -1608,7 +1608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/aws-lc</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.</div>
@@ -1661,7 +1661,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pyrossh/rust-embed</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.</div>
@@ -1811,7 +1811,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2024, 22:10:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2024, 23:14:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
