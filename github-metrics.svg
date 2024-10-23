@@ -1608,7 +1608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/aws-lc</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.</div>
@@ -1811,7 +1811,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Oct 2024, 10:07:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2024, 11:07:59 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
