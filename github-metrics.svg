@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.3928995361594" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="304.3928995361594" y="0" width="54.751103985152014" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="359.1440035213114" y="0" width="25.587774566152508" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="384.7317780874639" y="0" width="14.576913481569525" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="399.30869156903344" y="0" width="12.572918636413474" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="411.8816102054469" y="0" width="10.937765270271774" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="422.8193754757187" y="0" width="9.52906273686619" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.3484382125849" y="0" width="27.651561787415126" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.44311508196347" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="304.44311508196347" y="0" width="54.760136247646244" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="359.2032513296097" y="0" width="25.59199576864346" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="384.7952470982532" y="0" width="14.579318227763446" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="399.37456532601664" y="0" width="12.574992784570806" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="411.9495581105874" y="0" width="10.939569667988543" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="422.889127778576" y="0" width="9.530634741624063" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.4197625202" y="0" width="27.580237479799976" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1603,7 +1603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jordanbaird/Ice</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful menu bar manager for macOS</div>
@@ -1656,7 +1656,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kholia/OSX-KVM</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.</div>
@@ -1806,7 +1806,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2024, 12:09:30 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2024, 13:07:37 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
