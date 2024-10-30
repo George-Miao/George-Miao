@@ -1608,7 +1608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>compio-rs/compio-logo</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Logo for the compio project</div>
@@ -1661,7 +1661,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rehypejs/rehype</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HTML processor powered by plugins part of the @unifiedjs collective</div>
@@ -1714,7 +1714,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Vrtgs/thirtyfour</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Selenium WebDriver client for Rust, for automated testing of websites</div>
@@ -1767,7 +1767,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pubgrub-rs/pubgrub</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PubGrub version solving algorithm implemented in Rust</div>
@@ -1817,7 +1817,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2024, 03:07:57 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2024, 04:11:21 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
