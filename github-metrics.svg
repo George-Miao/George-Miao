@@ -1613,7 +1613,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remarkjs/react-markdown</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Markdown component for React</div>
@@ -1666,7 +1666,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remarkjs/awesome-remark</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Curated list of awesome remark resources</div>
@@ -1810,7 +1810,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Oct 2024, 16:08:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2024, 17:07:54 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
