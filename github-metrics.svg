@@ -1592,7 +1592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rbatis/rbatis</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust Compile Time ORM with Async Dynamic SQL</div>
@@ -1645,7 +1645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>metrics-rs/quanta</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">high-speed timing library in Rust</div>
@@ -1698,7 +1698,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tikv/minstant</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Performant time measuring in Rust</div>
@@ -1751,7 +1751,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deevus/zed-windows-builds</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1790,7 +1790,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Nov 2024, 09:07:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Nov 2024, 10:07:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
