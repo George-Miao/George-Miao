@@ -1603,7 +1603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustls/ktls</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Safer wrappers over ktls-sys</div>
@@ -1656,7 +1656,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rerun-io/rerun</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.</div>
@@ -1709,7 +1709,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sainnhe/everforest</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</div>
@@ -1762,7 +1762,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alacritty/alacritty-theme</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of Alacritty color schemes</div>
@@ -1812,7 +1812,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Nov 2024, 22:10:34 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Nov 2024, 23:09:57 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
