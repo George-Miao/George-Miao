@@ -1625,7 +1625,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hedgedoc/hedgedoc</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HedgeDoc - Ideas grow better together</div>
@@ -1678,7 +1678,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>requarks/wiki</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wiki.js | A modern and powerful wiki app built on Node.js</div>
@@ -1731,7 +1731,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>katharostech/cfg_aliases</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny utility to help save you a lot of effort with long winded `#[cfg()]` checks in Rust.</div>
@@ -1834,7 +1834,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2024, 00:08:30 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2024, 01:11:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
