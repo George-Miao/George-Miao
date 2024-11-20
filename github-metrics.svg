@@ -1612,7 +1612,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tirr-c/jxl-oxide</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pure Rust implementation of JPEG XL decoder</div>
@@ -1665,7 +1665,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marsqing/libinput-three-finger-drag</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Three-finger-drag support for libinput</div>
@@ -1718,7 +1718,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kexecboot/kexecboot</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kexecboot is a nice Linux-As-a-Bootloader implementation based on kexec</div>
@@ -1771,7 +1771,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Cinnamon/kotaemon</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source RAG-based tool for chatting with your documents.</div>
@@ -1821,7 +1821,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2024, 23:10:26 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2024, 00:08:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
