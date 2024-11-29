@@ -1583,7 +1583,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>moby/moby</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</div>
@@ -1636,7 +1636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tale/headplane</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An advanced UI for juanfont/headscale</div>
@@ -1689,7 +1689,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nirui/sshwifty</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web SSH &amp; Telnet (WebSSH &amp; WebTelnet client) 🔮</div>
@@ -1742,7 +1742,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>evan-buss/openbooks</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Search and Download eBooks</div>
@@ -1792,7 +1792,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2024, 17:07:37 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2024, 18:08:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
