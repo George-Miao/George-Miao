@@ -1594,7 +1594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>moby/moby</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</div>
@@ -1647,7 +1647,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tale/headplane</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An advanced UI for juanfont/headscale</div>
@@ -1803,7 +1803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2024, 11:08:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2024, 12:01:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
