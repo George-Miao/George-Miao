@@ -1610,7 +1610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/srvos</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NixOS profiles for servers [maintainer=@numtide]</div>
@@ -1663,7 +1663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numtide/nixos-facter</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Declarative hardware configuration for NixOS [maintainer=@numtide]</div>
@@ -1716,7 +1716,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Leedehai/typst-physics</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">physica: vectors, fields, differentials, derivatives, Dirac brakets, tensors, and more. See examples in the manual PDF.</div>
@@ -1819,7 +1819,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2024, 15:09:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2024, 16:07:59 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
