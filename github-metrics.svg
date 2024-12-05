@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            124 Pull requests reviewed
+                            127 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            443 issue comments
+                            444 issue comments
                         </div>
                     </section>
                     <section>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.765630668456" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="303.765630668456" y="0" width="54.63198004957164" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="358.39761071802764" y="0" width="25.532102329664085" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.92971304769173" y="0" width="14.545197969440125" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="398.4749110171319" y="0" width="12.545563287558634" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="411.02047430469054" y="0" width="11.685784558713472" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="422.706258863404" y="0" width="9.508330014181446" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.2145888775854" y="0" width="27.785411122414548" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.80089837825227" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="303.80089837825227" y="0" width="54.61964764904912" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="358.4205460273014" y="0" width="25.526338816940846" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.9468848442422" y="0" width="14.541914595729786" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="398.488799439972" y="0" width="12.542731303231829" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="411.03153074320386" y="0" width="11.683146657332866" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="422.71467740053674" y="0" width="9.506183642515458" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.2208610430522" y="0" width="27.779138956947847" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1611,7 +1611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/srvos</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NixOS profiles for servers [maintainer=@numtide]</div>
@@ -1664,7 +1664,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numtide/nixos-facter</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Declarative hardware configuration for NixOS [maintainer=@numtide]</div>
@@ -1820,7 +1820,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2024, 11:10:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2024, 12:07:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
