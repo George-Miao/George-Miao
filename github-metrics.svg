@@ -1611,7 +1611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/srvos</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NixOS profiles for servers [maintainer=@numtide]</div>
@@ -1664,7 +1664,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numtide/nixos-facter</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Declarative hardware configuration for NixOS [maintainer=@numtide]</div>
@@ -1820,7 +1820,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2024, 23:10:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2024, 00:09:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
