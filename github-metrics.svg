@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.79357834813476" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="303.79357834813476" y="0" width="54.61833159808307" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="358.4119099462178" y="0" width="25.525723764220704" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.93763371043855" y="0" width="14.541564210811984" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="398.4791979212505" y="0" width="12.542429088289786" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="411.0216270095403" y="0" width="11.682865153934241" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="422.7044921634745" y="0" width="9.505954592664267" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.2104467561388" y="0" width="27.78955324386121" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.7926152125379" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="303.7926152125379" y="0" width="54.61815843820362" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="358.4107736507415" y="0" width="25.525642838437722" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.93641648917924" y="0" width="14.541518108790337" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="398.4779345979696" y="0" width="12.542389324250035" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="411.02032392221963" y="0" width="11.682828115023268" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="422.7031520372429" y="0" width="9.505924455347671" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.20907649259055" y="0" width="27.790923507409452" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1596,7 +1596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kareadita/Kavita</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.</div>
@@ -1649,7 +1649,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CorentinTh/it-tools</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of handy online tools for developers, with great UX.</div>
@@ -1689,7 +1689,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        833
+                                        834
                                     </div>
                                 </div>
                             </section>
@@ -1702,7 +1702,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gethomepage/homepage</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.</div>
@@ -1755,7 +1755,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>claabs/epicgames-freegames-node</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.</div>
@@ -1805,7 +1805,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2024, 19:41:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Dec 2024, 21:24:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
