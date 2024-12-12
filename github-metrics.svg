@@ -1611,7 +1611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linkwarden/linkwarden</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...</div>
@@ -1664,7 +1664,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wg-easy/wg-easy</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest way to run WireGuard VPN + Web-based Admin UI.</div>
@@ -1717,7 +1717,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Stirling-Tools/Stirling-PDF</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">#1 Locally hosted web application that allows you to perform various operations on PDF files</div>
@@ -1770,7 +1770,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tecnativa/docker-socket-proxy</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxy over your Docker socket to restrict which requests it accepts</div>
@@ -1820,7 +1820,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Dec 2024, 16:07:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2024, 17:07:53 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
