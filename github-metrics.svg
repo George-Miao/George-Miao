@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>denoland/eszip</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A compact file format to losslessly serialize an ECMAScript module graph into a single file</div>
@@ -1638,7 +1638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rivenmedia/riven</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Handle your Media Library with ease!</div>
@@ -1691,7 +1691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linkwarden/linkwarden</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...</div>
@@ -1744,7 +1744,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wg-easy/wg-easy</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest way to run WireGuard VPN + Web-based Admin UI.</div>
@@ -1794,7 +1794,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2024, 07:14:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Dec 2024, 08:19:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
