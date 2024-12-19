@@ -1611,7 +1611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xbrowsersync/api</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Server-side REST API that serves requests from xBrowserSync client apps</div>
@@ -1664,7 +1664,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xbrowsersync/api-docker</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">xBrowserSync API for Docker</div>
@@ -1711,7 +1711,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pawelmalak/flame</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.</div>
@@ -1764,7 +1764,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>binwiederhier/ntfy</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Send push notifications to your phone or desktop using PUT/POST</div>
@@ -1814,7 +1814,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2024, 22:21:26 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2024, 23:10:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
