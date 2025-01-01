@@ -30,13 +30,13 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.4547392649014" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="303.4547392649014" y="0" width="54.5574125177422" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="358.01215178264357" y="0" width="25.49725340324018" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.5094051858838" y="0" width="14.52534513760852" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="398.0347503234923" y="0" width="12.52843976963169" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="410.56319009312404" y="0" width="12.092581813621575" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="422.65577190674554" y="0" width="9.495352034977069" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.15112394172263" y="0" width="27.84887605827738" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.4544509677683" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="303.4544509677683" y="0" width="54.55736068547998" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="358.0118116532483" y="0" width="25.497229179578106" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.5090408328264" y="0" width="14.52533133780638" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="398.03437217063276" y="0" width="12.528427866989219" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="410.56280003762197" y="0" width="12.092570325065894" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="422.65537036268785" y="0" width="9.49534301391918" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.15071337660703" y="0" width="27.849286623392953" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -583,7 +583,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.23
+                            Average per day at ~2.22
                         </div>
                     </section>
                 </div>
@@ -1576,6 +1576,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1597,7 +1602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datarhei/restreamer-ui</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The user interface of the Restreamer for the connection to the Core application.</div>
@@ -1650,7 +1655,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datarhei/restreamer</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.</div>
@@ -1703,7 +1708,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datarhei/core</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">datarhei Core is management for FFmpeg processes without development effort. Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video project at any stage. We've solved the challenging problems so you can focus on your application, not your infrastructure.</div>
@@ -1806,7 +1811,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Dec 2024, 18:05:14 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Dec 2024, 19:40:14 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
