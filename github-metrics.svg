@@ -1579,7 +1579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ben-PH/SimpleFOC-rs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An attempt at re-writing the SimpleFOC library in rust.</div>
@@ -1632,7 +1632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KiCad/kicad-source-mirror</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.</div>
@@ -1685,7 +1685,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>katbinaris/nanofoc_devkit</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Compact All-In-One BLDC Controler featuiring ESP32-S3, TMC6300 and Magalpha sensors. Small 35x35mm footprint.</div>
@@ -1732,7 +1732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/awesome-esp-rust</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Curated list of resources for ESP32 development in the Rust programming language</div>
@@ -1776,7 +1776,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jan 2025, 16:01:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jan 2025, 17:07:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
