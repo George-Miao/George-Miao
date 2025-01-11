@@ -1586,7 +1586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lvgl/lv_binding_rust</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LVGL bindings for Rust. A powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).</div>
@@ -1639,7 +1639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xdedss/f070f6p6_foc_board</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1693,7 +1693,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/esp-idf-hal</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">embedded-hal implementation for Rust on ESP32 and ESP-IDF</div>
@@ -1746,7 +1746,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>playfulFence/esp-max7219-nostd</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Utility library for LED Matrix Displays using the MAX7219 microcontroller written in Rust.</div>
@@ -1796,7 +1796,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2025, 12:01:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jan 2025, 13:09:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
