@@ -1586,7 +1586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xdedss/f070f6p6_foc_board</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1640,7 +1640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/esp-idf-hal</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">embedded-hal implementation for Rust on ESP32 and ESP-IDF</div>
@@ -1693,7 +1693,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>playfulFence/esp-max7219-nostd</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Utility library for LED Matrix Displays using the MAX7219 microcontroller written in Rust.</div>
@@ -1746,7 +1746,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/esp-generate</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Template generation tool to create no_std applications targeting Espressif's chips.</div>
@@ -1796,7 +1796,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2025, 08:12:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jan 2025, 09:02:26 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
