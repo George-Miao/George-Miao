@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simplefoc/SimpleFOCMini</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small package, low-cost BLDC diver board fully compatible with the simplefoc library</div>
@@ -1632,7 +1632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lvgl/lv_binding_rust</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LVGL bindings for Rust. A powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).</div>
@@ -1685,7 +1685,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xdedss/f070f6p6_foc_board</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1789,7 +1789,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2025, 01:10:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2025, 02:03:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
