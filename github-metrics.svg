@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.3734611716941" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="303.3734611716941" y="0" width="54.54279972088653" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="357.91626089258057" y="0" width="25.490424153699838" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.40668504628036" y="0" width="14.521454632029918" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="397.9281396783103" y="0" width="12.525084120292334" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="410.4532237986026" y="0" width="12.089342905591513" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="422.54256670419414" y="0" width="9.492808775611257" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.0353754798054" y="0" width="27.96462452019457" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.3700995407153" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="303.3700995407153" y="0" width="54.54219534117413" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="357.9122948818894" y="0" width="25.490141698539894" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.40243658042925" y="0" width="14.521293722200957" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="397.92373030263025" y="0" width="12.52494533191372" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="410.448675634544" y="0" width="12.08920894558899" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="422.537884580133" y="0" width="9.492703587372535" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.03058816750547" y="0" width="27.969411832494515" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1768,7 +1768,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simplefoc/SimpleFOCMini</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small package, low-cost BLDC diver board fully compatible with the simplefoc library</div>
@@ -1812,7 +1812,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2025, 19:34:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2025, 21:05:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
