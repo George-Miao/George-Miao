@@ -1612,7 +1612,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/espflash</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serial flasher utility for Espressif SoCs and modules based on esptool.py</div>
@@ -1665,7 +1665,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>korken89/fugit</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">`fugit` provides a comprehensive library of `Duration` and `Instant` for the handling of time in embedded systems, doing all it can at compile time.</div>
@@ -1815,7 +1815,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2025, 01:11:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Feb 2025, 02:08:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
