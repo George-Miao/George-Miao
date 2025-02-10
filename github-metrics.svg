@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.34657020968376" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="303.34657020968376" y="0" width="54.53796505819203" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="357.8845352678758" y="0" width="25.488164687677674" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.37269995555346" y="0" width="14.520167453239342" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="397.89286740879277" y="0" width="12.523973899378635" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="410.4168413081714" y="0" width="12.088271308690626" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="422.50511261686205" y="0" width="9.491967334968527" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="431.9970799518306" y="0" width="28.002920048169397" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.3451297569666" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="303.3451297569666" y="0" width="54.537706082592265" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="357.8828358395589" y="0" width="25.488043656158997" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.37087949571793" y="0" width="14.52009850367236" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="397.89097799939026" y="0" width="12.52391442881261" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="410.41489242820285" y="0" width="12.08821390707491" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="422.5031063352778" y="0" width="9.491922262000902" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="431.9950285972787" y="0" width="28.004971402721292" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1596,7 +1596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>barafael/as5600-rs</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust Embedded HAL driver for the AS5600 contactless 12-bit digital potentiometer</div>
@@ -1649,7 +1649,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bjoernQ/bleps</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A toy-level BLE peripheral stack</div>
@@ -1702,7 +1702,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RobTillaart/AS5600</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Arduino library for AS5600 magnetic rotation meter</div>
@@ -1805,7 +1805,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2025, 19:37:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Feb 2025, 21:09:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
