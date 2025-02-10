@@ -1596,7 +1596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>barafael/as5600-rs</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust Embedded HAL driver for the AS5600 contactless 12-bit digital potentiometer</div>
@@ -1649,7 +1649,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bjoernQ/bleps</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A toy-level BLE peripheral stack</div>
@@ -1702,7 +1702,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RobTillaart/AS5600</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Arduino library for AS5600 magnetic rotation meter</div>
@@ -1805,7 +1805,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2025, 02:08:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2025, 03:11:16 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
