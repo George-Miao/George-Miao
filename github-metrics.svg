@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            451 issue comments
+                            452 issue comments
                         </div>
                     </section>
                     <section>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.1736276417884" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="304.1736276417884" y="0" width="54.201962350012614" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="358.375589991801" y="0" width="25.331134766366077" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.70672475816707" y="0" width="14.43071021767323" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="398.13743497584034" y="0" width="12.446815003866684" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="410.584249979707" y="0" width="12.130011194191857" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="422.7142611738988" y="0" width="9.433488315315026" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.1477494892139" y="0" width="27.852250510786128" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.17420183814136" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="304.17420183814136" y="0" width="54.20206466844616" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="358.3762665065875" y="0" width="25.331182584598423" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.707449091186" y="0" width="14.430737458894775" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="398.1381865500807" y="0" width="12.446838500038384" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="410.5850250501191" y="0" width="12.130034092324886" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="422.715059142444" y="0" width="9.433506123152702" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.1485652655967" y="0" width="27.851434734403295" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1589,7 +1589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stm32-rs/stm32-rs</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Embedded Rust device crates for STM32 microcontrollers</div>
@@ -1798,7 +1798,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2025, 05:08:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2025, 06:01:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
