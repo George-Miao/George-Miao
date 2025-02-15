@@ -1586,7 +1586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ironblock/ST7701S-SPI-Driver</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[WIP] A Rust driver for controlling displays based on the Sitronix ST7701S chip over SPI.</div>
@@ -1745,7 +1745,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kisy/toyfoc</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A toy FOC for BLDC</div>
@@ -1795,7 +1795,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2025, 17:02:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Feb 2025, 18:03:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
