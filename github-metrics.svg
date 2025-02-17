@@ -1645,7 +1645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stm32-rs/stm32-rs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Embedded Rust device crates for STM32 microcontrollers</div>
@@ -1801,7 +1801,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2025, 00:09:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Feb 2025, 01:11:59 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
