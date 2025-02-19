@@ -1608,7 +1608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hpmicro/hpm-hal</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust HAL crate for HPMicro's RISC-V MCUs: HPM6700/HPM6400, HPM6300, HPM6200, HPM5300, HPM6800, HPM6E00.</div>
@@ -1817,7 +1817,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Feb 2025, 15:09:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Feb 2025, 16:07:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
