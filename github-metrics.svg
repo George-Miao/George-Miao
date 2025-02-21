@@ -1575,7 +1575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ranweiler/liar</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flexible, stand-alone benchmarking</div>
@@ -1628,7 +1628,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bheisler/criterion.rs</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Statistics-driven benchmarking library for Rust</div>
@@ -1681,7 +1681,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rrbutani/ubench</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">stopgap rust benchmarking solution for microcontrollers</div>
@@ -1734,7 +1734,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>khvzak/script-bench-rs</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust embedded scripting languages benchmark</div>
@@ -1778,7 +1778,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2025, 16:04:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2025, 17:07:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
