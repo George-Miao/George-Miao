@@ -1579,7 +1579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nrf-rs/nrf-hal</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust HAL for the nRF family of devices</div>
@@ -1632,7 +1632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samuelmaddock/electron-browser-shell</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimal, tabbed web browser with support for Chrome extensions—built on Electron.</div>
@@ -1788,7 +1788,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2025, 13:11:04 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Feb 2025, 14:01:41 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
