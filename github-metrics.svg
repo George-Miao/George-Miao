@@ -1618,7 +1618,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ctz/graviola</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1672,7 +1672,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustCrypto/RSA</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RSA implementation in pure Rust</div>
@@ -1725,7 +1725,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/esp-idf-svc</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)</div>
@@ -1778,7 +1778,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/embedded-svc</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust APIs and abstractions for various embedded services (WiFi, Network, Httpd, Logging, etc.)</div>
@@ -1828,7 +1828,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2025, 05:08:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2025, 06:08:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
