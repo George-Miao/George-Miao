@@ -1618,7 +1618,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustCrypto/RSA</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RSA implementation in pure Rust</div>
@@ -1671,7 +1671,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/esp-idf-svc</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)</div>
@@ -1724,7 +1724,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/embedded-svc</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust APIs and abstractions for various embedded services (WiFi, Network, Httpd, Logging, etc.)</div>
@@ -1777,7 +1777,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>espressif/esp-idf</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Espressif IoT Development Framework. Official development framework for Espressif SoCs.</div>
@@ -1827,7 +1827,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2025, 01:09:02 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2025, 02:11:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
