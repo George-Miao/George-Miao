@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.03441814040764" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="308.03441814040764" y="0" width="52.68201689471019" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="360.7164350351178" y="0" width="24.620792529729652" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="385.33722756484747" y="0" width="14.026040507183799" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="399.3632680720313" y="0" width="12.097778196380823" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="411.46104626841213" y="0" width="12.056984785953857" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="423.51803105436596" y="0" width="9.168951994657103" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.68698304902307" y="0" width="27.313016950976962" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.0332877900328" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="308.0332877900328" y="0" width="52.68182357495746" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="360.7151113649902" y="0" width="24.62070218228655" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="385.3358135472767" y="0" width="14.025989037805017" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="399.36180258508176" y="0" width="12.097733802873753" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="411.45953638795555" y="0" width="12.0569405421406" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="423.51647693009613" y="0" width="9.168918348649663" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.68539527874583" y="0" width="27.314604721254206" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1611,7 +1611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wushuo894/ani-rss</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">自动追番、订阅、下载 蜜柑RSS动漫</div>
@@ -1820,7 +1820,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2025, 20:39:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Apr 2025, 22:21:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
