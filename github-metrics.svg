@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>George-Miao/realmkbot</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A wocesua bot quoting mk (don't ask who they are, if you know you know)</div>
@@ -1638,7 +1638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containers/skopeo</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Work with remote images registries - retrieving information, images, signing content</div>
@@ -1691,7 +1691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FedericoBruzzone/tgt</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TUI for Telegram written in Rust 🦀</div>
@@ -1794,7 +1794,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2025, 18:07:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 May 2025, 19:08:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
