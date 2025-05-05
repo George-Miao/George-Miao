@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.5841063219253" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="307.5841063219253" y="0" width="52.73649287764811" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="360.32059919957334" y="0" width="24.646251727247627" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="384.966850926821" y="0" width="14.040544172540482" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="399.0073950993615" y="0" width="12.294470542354224" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="411.30186564171566" y="0" width="12.11028793684748" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="423.41215357856316" y="0" width="9.17843317441941" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.5905867529826" y="0" width="27.40941324701738" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.58325892235354" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="307.58325892235354" y="0" width="52.73634758769144" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="360.319606510045" y="0" width="24.646183826394722" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="384.9657903364397" y="0" width="14.040505490596667" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="399.00629582703635" y="0" width="12.294436670873681" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="411.3007324979101" y="0" width="12.110254572793224" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="423.4109870707033" y="0" width="9.178407887676103" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.5893949583794" y="0" width="27.41060504162066" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1598,7 +1598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>George-Miao/realmkbot</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A wocesua bot quoting mk (don't ask who they are, if you know you know)</div>
@@ -1651,7 +1651,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containers/skopeo</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Work with remote images registries - retrieving information, images, signing content</div>
@@ -1704,7 +1704,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FedericoBruzzone/tgt</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TUI for Telegram written in Rust 🦀</div>
@@ -1807,7 +1807,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2025, 20:43:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 May 2025, 22:28:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
