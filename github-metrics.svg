@@ -1607,7 +1607,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inejge/ldap3</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pure-Rust LDAP library using the Tokio stack</div>
@@ -1660,7 +1660,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/nix-index</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]</div>
@@ -1713,7 +1713,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/loki</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Like Prometheus, but for logs.</div>
@@ -1766,7 +1766,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AlexGustafsson/upmon</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cloud-native, distributed uptime monitor written in Go</div>
@@ -1816,7 +1816,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 May 2025, 08:17:14 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 May 2025, 09:24:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
