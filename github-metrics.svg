@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.05456575464865" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="309.05456575464865" y="0" width="52.988608873913286" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="362.0431746285619" y="0" width="24.764077429514813" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="386.8072520580767" y="0" width="14.107667441248887" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="400.9149194993256" y="0" width="12.353246401729814" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="413.26816590105545" y="0" width="12.168183279174094" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="425.4363491802295" y="0" width="9.222312274026788" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="434.6586614542563" y="0" width="25.34133854574367" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.06045947391584" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="309.06045947391584" y="0" width="52.989619375034025" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="362.0500788489499" y="0" width="24.764549684373513" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="386.8146285333234" y="0" width="14.10793647668996" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="400.9225650100134" y="0" width="12.353481980085219" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="413.2760469900986" y="0" width="12.16841532834659" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="425.44446231844523" y="0" width="9.22248814497503" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="434.6669504634203" y="0" width="25.333049536579793" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1617,7 +1617,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>djkoloski/rust_serialization_benchmark</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Benchmarks for rust serialization frameworks</div>
@@ -1664,7 +1664,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tokio-rs/turmoil</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Add hardship to your tests</div>
@@ -1717,7 +1717,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asatarin/testing-distributed-systems</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Curated list of resources on testing distributed systems</div>
@@ -1820,7 +1820,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 May 2025, 20:41:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 May 2025, 22:27:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
