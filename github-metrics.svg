@@ -1604,7 +1604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pubky/pkarr</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Public Key Addressable Resource Records (sovereign TLDs)</div>
@@ -1657,7 +1657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DBCDK/morph</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NixOS deployment tool</div>
@@ -1813,7 +1813,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2025, 04:14:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 May 2025, 05:11:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
