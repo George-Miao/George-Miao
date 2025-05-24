@@ -1586,7 +1586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XiaoMi/ha_xiaomi_home</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Xiaomi Home Integration for Home Assistant</div>
@@ -1639,7 +1639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/memberlist</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Golang package for gossip based membership and failure detection</div>
@@ -1692,7 +1692,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hydro-project/hydro</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-level distributed programming framework for Rust</div>
@@ -1745,7 +1745,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mycrl/hylarana</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cross-platform screen cast implemented by Rust.</div>
@@ -1795,7 +1795,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2025, 17:07:15 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 May 2025, 18:07:30 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
