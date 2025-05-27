@@ -1717,7 +1717,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustCrypto/AEADs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers</div>
@@ -1764,7 +1764,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustCrypto/stream-ciphers</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of stream cipher algorithms</div>
@@ -1808,7 +1808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2025, 18:08:27 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2025, 19:08:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
