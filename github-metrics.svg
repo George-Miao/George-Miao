@@ -1613,7 +1613,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenXiangShan/XiangShan</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source high-performance RISC-V processor</div>
@@ -1666,7 +1666,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kpcyrd/acme-micro</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust library for requesting certificates from an ACME provider</div>
@@ -1719,7 +1719,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustCrypto/nacl-compat</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pure Rust compatibility layer for NaCl-family libraries</div>
@@ -1766,7 +1766,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/consul</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.</div>
@@ -1816,7 +1816,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2025, 16:10:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 May 2025, 17:08:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
