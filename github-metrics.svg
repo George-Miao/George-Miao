@@ -1597,7 +1597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>soketi/soketi</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣</div>
@@ -1650,7 +1650,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>highlight/highlight</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.</div>
@@ -1756,7 +1756,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>koute/bytehound</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A memory profiler for Linux.</div>
@@ -1806,7 +1806,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jun 2025, 23:39:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jun 2025, 00:16:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
