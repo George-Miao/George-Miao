@@ -1602,7 +1602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lancedb/lancedb</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.</div>
@@ -1761,7 +1761,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oxalica/palc</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prototype of a command line argument parser with several opposite design goals from clap.</div>
@@ -1811,7 +1811,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jun 2025, 04:14:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jun 2025, 05:12:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
