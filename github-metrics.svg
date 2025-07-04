@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ahurein/rein_player</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast and intuitive video player with a clean UI, inspired by PotPlayer, designed for Linux and macOS.</div>
@@ -1632,7 +1632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tomasklaen/uosc</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Feature-rich minimalist proximity-based UI for MPV player.</div>
@@ -1738,7 +1738,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lancedb/lancedb</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.</div>
@@ -1788,7 +1788,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2025, 11:09:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2025, 12:10:37 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
