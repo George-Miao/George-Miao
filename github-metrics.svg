@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.55269720404016" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="307.55269720404016" y="0" width="52.34378678785142" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="359.89648399189156" y="0" width="24.334071697151753" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="384.23055568904334" y="0" width="15.82384083983066" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="400.054396528874" y="0" width="13.862700598156296" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="413.9170971270303" y="0" width="11.956893818568021" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="425.8739909455983" y="0" width="9.062175190189885" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="434.9361661357882" y="0" width="25.06383386421178" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.549536812181" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="307.549536812181" y="0" width="52.343248906443954" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="359.89278571862496" y="0" width="24.333821641786308" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="384.2266073604112" y="0" width="15.823678235053574" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="400.0502855954648" y="0" width="13.862558145930986" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="413.9128437413958" y="0" width="11.956770950291368" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="425.86961469168716" y="0" width="9.062082067856842" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="434.931696759544" y="0" width="25.068303240455997" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1596,7 +1596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>slab/quill</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quill is a modern WYSIWYG editor built for compatibility and extensibility</div>
@@ -1749,7 +1749,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>msiemens/tinydb</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TinyDB is a lightweight document oriented database optimized for your happiness :)</div>
@@ -1799,7 +1799,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2025, 20:47:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jul 2025, 22:47:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
