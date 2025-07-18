@@ -1581,7 +1581,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>STRRL/cloudflare-tunnel-ingress-controller</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.</div>
@@ -1634,7 +1634,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-sigs/external-dns</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Configure external DNS servers dynamically from Kubernetes resources</div>
@@ -1687,7 +1687,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>helm/helm</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Kubernetes Package Manager</div>
@@ -1740,7 +1740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coturn/coturn</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">coturn TURN server project</div>
@@ -1790,7 +1790,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2025, 22:51:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2025, 23:54:21 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
