@@ -1586,7 +1586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YaLTeR/niri</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A scrollable-tiling Wayland compositor.</div>
@@ -1620,7 +1620,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        738
+                                        739
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1639,7 +1639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unjs/unenv</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🕊️ Node.js compatibility for any JavaScript runtime, including browsers and edge workers.</div>
@@ -1692,7 +1692,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudflare/wrangler-action</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions</div>
@@ -1745,7 +1745,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opennextjs/opennextjs-cloudflare</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Next.js adapter for Cloudflare</div>
@@ -1795,7 +1795,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2025, 22:43:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jul 2025, 23:46:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
