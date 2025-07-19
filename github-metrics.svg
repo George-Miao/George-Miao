@@ -1577,7 +1577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unjs/unenv</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🕊️ Node.js compatibility for any JavaScript runtime, including browsers and edge workers.</div>
@@ -1630,7 +1630,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudflare/wrangler-action</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions</div>
@@ -1683,7 +1683,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opennextjs/opennextjs-cloudflare</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Next.js adapter for Cloudflare</div>
@@ -1733,7 +1733,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2025, 09:22:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jul 2025, 10:08:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
