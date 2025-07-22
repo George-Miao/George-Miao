@@ -1603,7 +1603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailwindlabs/tailwindcss-typography</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Beautiful typographic defaults for HTML you don't control.</div>
@@ -1656,7 +1656,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>slab/parchment</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generalized state model for rich-text editors to interface with browser DOM</div>
@@ -1709,7 +1709,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>typesense/typesense</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences</div>
@@ -1812,7 +1812,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2025, 13:12:22 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2025, 14:13:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
