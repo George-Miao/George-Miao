@@ -1584,7 +1584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cunarist/rinf</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust for native business logic, Flutter for flexible and beautiful GUI</div>
@@ -1684,7 +1684,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vet-run/vet</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.</div>
@@ -1737,7 +1737,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HeyPuter/puter</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌐 The Internet OS! Free, Open-Source, and Self-Hostable.</div>
@@ -1787,7 +1787,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2025, 13:07:26 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2025, 14:11:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
