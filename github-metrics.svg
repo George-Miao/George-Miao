@@ -1596,7 +1596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cunarist/rinf</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust for native business logic, Flutter for flexible and beautiful GUI</div>
@@ -1649,7 +1649,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xc000022070/zen-browser-flake</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Community-driven Nix Flake for the Zen browser</div>
@@ -1799,7 +1799,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2025, 14:13:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jul 2025, 15:11:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
