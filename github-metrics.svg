@@ -1607,7 +1607,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaPanel/BillionMail</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</div>
@@ -1660,7 +1660,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ChrispyBacon-dev/DockFlare</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DockFlare: Cloudflare Tunnel &amp; Zero Trust manager</div>
@@ -1816,7 +1816,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2025, 09:33:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2025, 10:14:22 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
