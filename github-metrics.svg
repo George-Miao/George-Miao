@@ -1589,7 +1589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jetify-com/typeid</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs</div>
@@ -1642,7 +1642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fluxcd/flux2</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.</div>
@@ -1695,7 +1695,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/terraform-provider-kubernetes</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terraform Kubernetes provider</div>
@@ -1748,7 +1748,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hetznercloud/terraform-provider-hcloud</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terraform Hetzner Cloud provider</div>
@@ -1798,7 +1798,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2025, 04:14:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Aug 2025, 05:15:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
