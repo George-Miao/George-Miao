@@ -1588,7 +1588,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hcloud-talos/terraform-hcloud-talos</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud.</div>
@@ -1641,7 +1641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>siderolabs/talos-cloud-controller-manager</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generic cloud controller manager for hybrid deployments using Talos OS</div>
@@ -1694,7 +1694,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>virtualroot/awesome-opentofu</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of OpenTofu tools, resources, and related projects.</div>
@@ -1747,7 +1747,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-sigs/kubespray</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploy a Production Ready Kubernetes Cluster</div>
@@ -1797,7 +1797,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2025, 04:11:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Aug 2025, 05:10:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
