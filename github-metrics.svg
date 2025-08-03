@@ -1593,7 +1593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cilium/cilium</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">eBPF-based Networking, Security, and Observability</div>
@@ -1646,7 +1646,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steveteuber/kubectl-graph</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A kubectl plugin to visualize Kubernetes resources and relationships.</div>
@@ -1699,7 +1699,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/terraform-provider-local</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Utility provider used to manage local resources, such as creating files.</div>
@@ -1752,7 +1752,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ethersync/ethersync</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Peer-to-peer, editor-agnostic collaborative editing of local text files.</div>
@@ -1802,7 +1802,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2025, 16:10:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Aug 2025, 17:08:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
