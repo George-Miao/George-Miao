@@ -1601,7 +1601,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>caddyserver/ingress</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WIP Caddy 2 ingress controller for Kubernetes</div>
@@ -1654,7 +1654,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudflare/origin-ca-issuer</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">cert-manager issuer for Origin CA</div>
@@ -1707,7 +1707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>minio/warp</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">S3 benchmarking tool</div>
@@ -1760,7 +1760,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clash-verge-rev/clash-verge-rev</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</div>
@@ -1810,7 +1810,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2025, 08:18:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Aug 2025, 09:34:15 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
