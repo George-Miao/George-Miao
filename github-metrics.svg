@@ -1611,7 +1611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>topolvm/pvc-autoresizer</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Auto-resize PersistentVolumeClaim objects based on Prometheus metrics</div>
@@ -1664,7 +1664,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>azukaar/Cosmos-Server</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)</div>
@@ -1717,7 +1717,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gravitl/netmaker-helm</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1765,7 +1765,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ceph/ceph-csi</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CSI driver for Ceph</div>
@@ -1815,7 +1815,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2025, 18:09:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Aug 2025, 19:10:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
