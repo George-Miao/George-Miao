@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gravitl/netmaker</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.</div>
@@ -1638,7 +1638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rqlite/helm-charts</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Helm charts for rqlite</div>
@@ -1691,7 +1691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>topolvm/pvc-autoresizer</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Auto-resize PersistentVolumeClaim objects based on Prometheus metrics</div>
@@ -1794,7 +1794,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2025, 23:59:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2025, 00:41:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
