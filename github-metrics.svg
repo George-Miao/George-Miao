@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.2117502572203" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="307.2117502572203" y="0" width="52.2858067539042" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="359.4975570111245" y="0" width="24.307117393887577" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.80467440501207" y="0" width="16.032817926683766" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="399.83749233169584" y="0" width="13.847345196864087" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="413.6848375285599" y="0" width="11.943649436530594" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="425.62848696509053" y="0" width="9.052137222793823" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="434.6806241878844" y="0" width="25.319375812115677" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.2038668997691" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="307.2038668997691" y="0" width="52.28446504837398" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="359.48833194814307" y="0" width="24.30649364920703" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.7948255973501" y="0" width="16.032406508713716" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="399.82723210606383" y="0" width="13.84698986028648" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="413.67422196635033" y="0" width="11.943342950669617" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="425.61756491702" y="0" width="9.051904935996964" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="434.66946985301695" y="0" width="25.33053014698313" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1607,7 +1607,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bitwarden/clients</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bitwarden client apps (web, browser extension, desktop, and cli).</div>
@@ -1660,7 +1660,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>postalserver/postal</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail</div>
@@ -1713,7 +1713,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>minio/minio</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</div>
@@ -1816,7 +1816,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2025, 20:43:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2025, 22:31:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
