@@ -1616,7 +1616,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>go-gitea/gitea</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</div>
@@ -1669,7 +1669,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liuch/dmarc-srg</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A php parser, viewer and summary report generator for incoming DMARC reports.</div>
@@ -1722,7 +1722,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MartiUK/terraform-cloudflare-fastmail</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Module to set all the DNS records required for Fastmail email hosting on Cloudflare.</div>
@@ -1825,7 +1825,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2025, 01:11:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Aug 2025, 02:14:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
