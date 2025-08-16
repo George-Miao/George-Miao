@@ -1594,7 +1594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smallstep/autocert</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers</div>
@@ -1647,7 +1647,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pomerium/pomerium</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pomerium is an identity and context-aware access proxy.</div>
@@ -1700,7 +1700,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zaidmukaddam/scira</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.</div>
@@ -1753,7 +1753,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>backblaze-b2-samples/cloudflare-b2-proxy</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxy Backblaze S3 compatible API requests, optionally sending notifications to a webhook</div>
@@ -1803,7 +1803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2025, 02:12:15 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Aug 2025, 03:08:21 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
