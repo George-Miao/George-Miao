@@ -1599,7 +1599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustls/webpki</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebPKI X.509 Certificate Validation in Rust</div>
@@ -1652,7 +1652,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smallstep/autocert</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers</div>
@@ -1705,7 +1705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pomerium/pomerium</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pomerium is an identity and context-aware access proxy.</div>
@@ -1808,7 +1808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2025, 22:49:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Aug 2025, 23:48:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
