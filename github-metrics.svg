@@ -1599,7 +1599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustls/webpki</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebPKI X.509 Certificate Validation in Rust</div>
@@ -1705,7 +1705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pomerium/pomerium</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pomerium is an identity and context-aware access proxy.</div>
@@ -1808,7 +1808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2025, 23:48:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Aug 2025, 00:23:04 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
