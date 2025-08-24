@@ -1599,7 +1599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mbuhot/glyn</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Type-safe PubSub and Registry for Gleam actors with distributed clustering support, built on Syn.</div>
@@ -1652,7 +1652,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/nixos-vscode-server</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visual Studio Code Server support in NixOS</div>
@@ -1705,7 +1705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>de-vri-es/async-shutdown-rs</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">one-stop solution for async shutdown (runtime agnostic)</div>
@@ -1758,7 +1758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Nuhvi/mainline</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, robust, BitTorrent's Mainline DHT implementation</div>
@@ -1808,7 +1808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2025, 17:07:26 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2025, 18:08:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
