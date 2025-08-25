@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.5829937402342" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="309.5829937402342" y="0" width="52.20133490229364" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="361.78432864252784" y="0" width="24.267847325372788" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="386.0521759679006" y="0" width="16.180090038388084" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="402.23226600628874" y="0" width="13.824973716699782" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.05723972298847" y="0" width="11.924353527267115" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="427.9815932502556" y="0" width="9.037512779953316" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.0191060302089" y="0" width="22.980893969791083" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.57991445353133" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="309.57991445353133" y="0" width="52.20081567843546" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="361.7807301319668" y="0" width="24.26760594370426" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="386.04833607567105" y="0" width="16.17992910210569" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="402.22826517777673" y="0" width="13.824836205729882" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.05310138350666" y="0" width="11.924234920935374" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="427.977336304442" y="0" width="9.037422887764492" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.0147591922065" y="0" width="22.985240807793524" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1606,7 +1606,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mbuhot/glyn</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Type-safe PubSub and Registry for Gleam actors with distributed clustering support, built on Syn.</div>
@@ -1659,7 +1659,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/nixos-vscode-server</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visual Studio Code Server support in NixOS</div>
@@ -1712,7 +1712,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>de-vri-es/async-shutdown-rs</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">one-stop solution for async shutdown (runtime agnostic)</div>
@@ -1765,7 +1765,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Nuhvi/mainline</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, robust, BitTorrent's Mainline DHT implementation</div>
@@ -1815,7 +1815,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2025, 20:43:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2025, 22:28:23 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
