@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2885 Commits
+                            2886 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.61926097862306" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="307.61926097862306" y="0" width="52.180749503949684" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="359.8000104825727" y="0" width="24.113912620268803" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.9139231028415" y="0" width="18.658596084010334" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="402.5725191868518" y="0" width="13.737279772378422" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.30979895923025" y="0" width="11.848715510463855" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.1585144696941" y="0" width="8.980186440043429" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.13870090973757" y="0" width="22.86129909026244" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.63142296367226" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="307.63142296367226" y="0" width="52.182812513571726" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="359.814235477244" y="0" width="24.114865983994573" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.9291014612386" y="0" width="18.641147282075917" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="402.57024874331444" y="0" width="13.737822887236304" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.3080716305508" y="0" width="11.849183959352368" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.1572555899032" y="0" width="8.980541479233352" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.13779706913647" y="0" width="22.8622029308635" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -519,25 +519,25 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,24.074L41,10L72,94.444L103,105L134,31.111L165,83.889L196,31.111" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,31.111L165,83.889L134,31.111L103,105L72,94.444L41,10L10,24.074Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,20.556L41,10L72,94.444L103,105L134,31.111L165,83.889L196,34.63" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,34.63L165,83.889L134,31.111L103,105L72,94.444L41,10L10,20.556Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
-                                    <circle transform="translate(10,10)" cx="10" cy="24.074074074074076" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="10" cy="20.55555555555556" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="94.44444444444444" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="105" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="31.11111111111111" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="83.8888888888889" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="196" cy="31.11111111111111" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="196" cy="34.62962962962963" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <text transform="translate(10,6)" x="10" y="24.074074074074076" fill="rgba(127, 127, 127, .8)">23</text>
+                                    <text transform="translate(10,6)" x="10" y="20.55555555555556" fill="rgba(127, 127, 127, .8)">24</text>
                                     <text transform="translate(10,6)" x="41" y="10" fill="rgba(127, 127, 127, .8)">27</text>
                                     <text transform="translate(10,6)" x="72" y="94.44444444444444" fill="rgba(127, 127, 127, .8)">3</text>
                                     <text transform="translate(10,6)" x="103" y="105" fill="rgba(127, 127, 127, .8)"/>
                                     <text transform="translate(10,6)" x="134" y="31.11111111111111" fill="rgba(127, 127, 127, .8)">21</text>
                                     <text transform="translate(10,6)" x="165" y="83.8888888888889" fill="rgba(127, 127, 127, .8)">6</text>
-                                    <text transform="translate(10,6)" x="196" y="31.11111111111111" fill="rgba(127, 127, 127, .8)">21</text>
+                                    <text transform="translate(10,6)" x="196" y="34.62962962962963" fill="rgba(127, 127, 127, .8)">20</text>
                                 </g>
                             </svg>
                         </div>
@@ -1572,10 +1572,10 @@
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 5.2)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8 0,1.8 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8 1.7,2.8 z"/>
+                            <g transform="translate(0, 4.800000000000001)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
                             </g>
                         </g>
                     </g>
@@ -1598,7 +1598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uncenter/json-to-nix</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧮 A web app to quickly convert JSON to Nix values.</div>
@@ -1651,7 +1651,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SoftFever/OrcaSlicer</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)</div>
@@ -1801,7 +1801,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2025, 22:45:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2025, 23:44:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
