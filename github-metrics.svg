@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.6292116221348" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="307.6292116221348" y="0" width="52.18243740877995" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="359.8116490309147" y="0" width="24.114692639528307" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.926341670443" y="0" width="18.64101328424535" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="402.56735495468837" y="0" width="13.737724135886092" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.30507909057445" y="0" width="11.849098784072085" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.1541778746465" y="0" width="8.980476924565265" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.1346547992117" y="0" width="22.865345200788195" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.63114654424146" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="307.63114654424146" y="0" width="52.18276562517784" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="359.8139121694193" y="0" width="24.114844315800003" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.9287564852193" y="0" width="18.641130532241746" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="402.56988701746104" y="0" width="13.737810543239886" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.30769756070094" y="0" width="11.849173312375363" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.1568708730763" y="0" width="8.980533409849087" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.1374042829254" y="0" width="22.862595717074612" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1597,7 +1597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>localsend/localsend</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source cross-platform alternative to AirDrop</div>
@@ -1650,7 +1650,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/link-cplusplus</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Link libstdc++ or libc++ automatically or manually</div>
@@ -1703,7 +1703,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jpochyla/psst</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and multi-platform Spotify client with native GUI</div>
@@ -1756,7 +1756,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stagewise-io/stagewise</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks and setups 💪</div>
@@ -1806,7 +1806,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2025, 20:40:14 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Sept 2025, 22:21:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
