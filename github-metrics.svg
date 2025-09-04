@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.6217485791506" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="307.6217485791506" y="0" width="52.18117146992016" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="359.8029200490708" y="0" width="24.11410762035289" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.91702766942365" y="0" width="18.656129299686597" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="402.57315696911024" y="0" width="13.73739086056029" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.31054782967055" y="0" width="11.84881132654137" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.1593591562119" y="0" width="8.980259059412107" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.13961821562407" y="0" width="22.860381784375928" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.6195373766949" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="307.6195373766949" y="0" width="52.1807963887205" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="359.80033376541536" y="0" width="24.11393428678907" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.9142680522044" y="0" width="18.655995198378374" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="402.5702632505828" y="0" width="13.737292115421015" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.3075553660038" y="0" width="11.848726156618165" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.156281522622" y="0" width="8.980194508804171" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.1364760314262" y="0" width="22.86352396857382" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1621,7 +1621,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sienori/Tab-Session-Manager</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebExtensions for restoring and saving window / tab states</div>
@@ -1830,7 +1830,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2025, 20:38:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Sept 2025, 22:13:02 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
