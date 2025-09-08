@@ -1604,7 +1604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jj-vcs/jj</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Git-compatible VCS that is both simple and powerful</div>
@@ -1657,7 +1657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codereport/array-language-comparisons</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comparison of array languages &amp; libraries: APL, J, BQN, Uiua, Q, Julia, R, NumPy, Nial, Futhark, Dex, Ivy, SaC &amp; ArrayFire.</div>
@@ -1710,7 +1710,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rocq-community/coq-art</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Coq code and exercises from the Coq'Art book [maintainers=@ybertot,@Casteran]</div>
@@ -1813,7 +1813,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2025, 22:22:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Sept 2025, 23:32:18 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
