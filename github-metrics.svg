@@ -1610,7 +1610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ohkami-rs/ohkami</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A performant, declarative, and runtime-flexible web framework for Rust</div>
@@ -1663,7 +1663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>siderolabs/image-factory</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A service to generate Talos boot assets</div>
@@ -1819,7 +1819,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Sept 2025, 16:01:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Sept 2025, 17:01:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
