@@ -1613,7 +1613,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NextAlone/Nagram</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The third-party Telegram android app.</div>
@@ -1666,7 +1666,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nitobuendia/oura-custom-component</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Oura Custom Component for Home-Assistant. Adds Oura Ring sleep information.</div>
@@ -1816,7 +1816,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2025, 17:01:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2025, 18:01:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
