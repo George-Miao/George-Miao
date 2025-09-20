@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.46861464819324" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="308.46861464819324" y="0" width="51.543476434810486" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="360.0120910830037" y="0" width="23.813441214503147" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.8255322975069" y="0" width="19.367051917122843" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="403.19258421462973" y="0" width="13.566106399164271" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.758690613794" y="0" width="11.701074592044257" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.45976520583827" y="0" width="8.868288827815643" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.32805403365387" y="0" width="22.67194596634609" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.4669724124835" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="308.4669724124835" y="0" width="51.54320202589631" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="360.01017443837986" y="0" width="23.813314435694295" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.82348887407414" y="0" width="19.366948810152667" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="403.1904376842268" y="0" width="13.566034175465289" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.7564718596921" y="0" width="11.701012297465086" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.4574841571572" y="0" width="8.868241614517741" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.32572577167497" y="0" width="22.674274228325046" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1586,7 +1586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GeekDetour/BrickLayers</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Interlocking Layers Post-Processing Script for PrusaSlicer, OrcaSlicer, and BambuStudio</div>
@@ -1789,7 +1789,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Sept 2025, 20:37:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2025, 22:11:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
