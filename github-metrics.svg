@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.5832784870509" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="308.5832784870509" y="0" width="51.410078008081356" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="359.9933564951323" y="0" width="23.75181022232436" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.74516671745664" y="0" width="19.570691523365696" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="403.31585824082237" y="0" width="13.530996286776386" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.84685452759874" y="0" width="11.67079132344104" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.5176458510398" y="0" width="8.845337023644918" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.36298287468475" y="0" width="22.637017125315325" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.5809116340979" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="308.5809116340979" y="0" width="51.40968368958314" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="359.990595323681" y="0" width="23.75162804446158" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.7422233681426" y="0" width="19.570541414943584" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="403.3127647830862" y="0" width="13.530892503192664" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.84365728627887" y="0" width="11.67070180774517" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.51435909402403" y="0" width="8.84526917935939" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.35962827338346" y="0" width="22.64037172661656" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -285,7 +285,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 46 commits)</small>
+                    <small class="h-details">(computed from last 44 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -412,8 +412,8 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,86L68.696,105L88.261,105L107.826,105L127.391,105L146.957,95.5L166.522,105L186.087,67L205.652,105L225.217,105L244.783,105L264.348,105L283.913,48L303.478,105L323.043,105L342.609,67L362.174,76.5L381.739,10L401.304,10L420.87,48L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,48L401.304,10L381.739,10L362.174,76.5L342.609,67L323.043,105L303.478,105L283.913,48L264.348,105L244.783,105L225.217,105L205.652,105L186.087,67L166.522,105L146.957,95.5L127.391,105L107.826,105L88.261,105L68.696,105L49.13,86L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,86L68.696,105L88.261,105L107.826,105L127.391,105L146.957,95.5L166.522,105L186.087,67L205.652,105L225.217,105L244.783,105L264.348,105L283.913,48L303.478,105L323.043,105L342.609,67L362.174,76.5L381.739,10L401.304,29L420.87,48L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,48L401.304,29L381.739,10L362.174,76.5L342.609,67L323.043,105L303.478,105L283.913,48L264.348,105L244.783,105L225.217,105L205.652,105L186.087,67L166.522,105L146.957,95.5L127.391,105L107.826,105L88.261,105L68.696,105L49.13,86L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc"/>
@@ -435,7 +435,7 @@
                                 <circle transform="translate(10,10)" cx="342.60869565217394" cy="67" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="362.17391304347825" cy="76.5" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="381.7391304347826" cy="10" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="401.30434782608694" cy="10" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="401.30434782608694" cy="28.999999999999996" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="420.8695652173913" cy="48" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="440.4347826086956" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="460" cy="105" r="2" fill="#106cbc"/>
@@ -461,7 +461,7 @@
                                 <text transform="translate(10,6)" x="342.60869565217394" y="67" fill="rgba(127, 127, 127, .8)">4</text>
                                 <text transform="translate(10,6)" x="362.17391304347825" y="76.5" fill="rgba(127, 127, 127, .8)">3</text>
                                 <text transform="translate(10,6)" x="381.7391304347826" y="10" fill="rgba(127, 127, 127, .8)">10</text>
-                                <text transform="translate(10,6)" x="401.30434782608694" y="10" fill="rgba(127, 127, 127, .8)">10</text>
+                                <text transform="translate(10,6)" x="401.30434782608694" y="28.999999999999996" fill="rgba(127, 127, 127, .8)">8</text>
                                 <text transform="translate(10,6)" x="420.8695652173913" y="48" fill="rgba(127, 127, 127, .8)">6</text>
                                 <text transform="translate(10,6)" x="440.4347826086956" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="460" y="105" fill="rgba(127, 127, 127, .8)"/>
@@ -519,15 +519,15 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,83.077L41,97.692L72,97.692L103,10L134,39.231L165,53.846L196,17.308" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,17.308L165,53.846L134,39.231L103,10L72,97.692L41,97.692L10,83.077Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,83.077L41,97.692L72,97.692L103,10L134,39.231L165,68.462L196,17.308" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,17.308L165,68.462L134,39.231L103,10L72,97.692L41,97.692L10,83.077Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="83.07692307692307" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="97.69230769230771" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="97.69230769230771" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="39.230769230769226" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="165" cy="53.846153846153854" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="165" cy="68.46153846153845" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="196" cy="17.307692307692303" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
@@ -536,7 +536,7 @@
                                     <text transform="translate(10,6)" x="72" y="97.69230769230771" fill="rgba(127, 127, 127, .8)">1</text>
                                     <text transform="translate(10,6)" x="103" y="10" fill="rgba(127, 127, 127, .8)">13</text>
                                     <text transform="translate(10,6)" x="134" y="39.230769230769226" fill="rgba(127, 127, 127, .8)">9</text>
-                                    <text transform="translate(10,6)" x="165" y="53.846153846153854" fill="rgba(127, 127, 127, .8)">7</text>
+                                    <text transform="translate(10,6)" x="165" y="68.46153846153845" fill="rgba(127, 127, 127, .8)">5</text>
                                     <text transform="translate(10,6)" x="196" y="17.307692307692303" fill="rgba(127, 127, 127, .8)">12</text>
                                 </g>
                             </svg>
@@ -1580,7 +1580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hacknus/serial-monitor-rust</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cross-platform serial monitor/plotter written entirely in rust.</div>
@@ -1633,7 +1633,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-embedded-community/usb-device</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental device-side USB framework for microcontrollers in Rust.</div>
@@ -1686,7 +1686,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FreeSpacenav/spacenavd</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free user-space driver for 6-dof space-mice.</div>
@@ -1739,7 +1739,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spoter368/os3m-hardware</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All the hardware needed to build your own OS3M Mouse!</div>
@@ -1777,7 +1777,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2025, 20:37:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2025, 22:10:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
