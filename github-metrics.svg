@@ -1580,7 +1580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hacknus/serial-monitor-rust</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cross-platform serial monitor/plotter written entirely in rust.</div>
@@ -1633,7 +1633,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-embedded-community/usb-device</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental device-side USB framework for microcontrollers in Rust.</div>
@@ -1686,7 +1686,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FreeSpacenav/spacenavd</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free user-space driver for 6-dof space-mice.</div>
@@ -1739,7 +1739,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spoter368/os3m-hardware</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All the hardware needed to build your own OS3M Mouse!</div>
@@ -1777,7 +1777,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2025, 22:10:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2025, 23:19:57 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
