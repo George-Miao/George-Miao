@@ -1598,7 +1598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>espressif/binutils-gdb</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial mirror of sourceware binutils-gdb repository. Updated daily.</div>
@@ -1651,7 +1651,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twitchyliquid64/usbd-hid</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1705,7 +1705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dlkj/usbd-human-interface-device</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Batteries included rust USB HID library for usb-device</div>
@@ -1808,7 +1808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2025, 13:01:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2025, 14:13:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
