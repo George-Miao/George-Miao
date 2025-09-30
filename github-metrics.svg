@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.9043366047875" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="308.9043366047875" y="0" width="51.296748620802724" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="360.2010852255902" y="0" width="23.699451264634565" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.9005364902248" y="0" width="19.527549505985107" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="403.42808599620986" y="0" width="13.501168292385701" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.9292542885956" y="0" width="11.645064001464707" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.57431829006026" y="0" width="8.825838188708214" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.4001564787685" y="0" width="22.599843521231485" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.902518068835" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="308.902518068835" y="0" width="51.29644663416621" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="360.19896470300114" y="0" width="23.699311744727996" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.89827644772913" y="0" width="19.527434546281942" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="403.42571099401107" y="0" width="13.501088810303283" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.9267998043144" y="0" width="11.644995446365128" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.5717952506795" y="0" width="8.82578623053814" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.3975814812176" y="0" width="22.602418518782347" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1597,7 +1597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>espressif/binutils-gdb</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial mirror of sourceware binutils-gdb repository. Updated daily.</div>
@@ -1807,7 +1807,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2025, 20:39:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2025, 22:14:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
