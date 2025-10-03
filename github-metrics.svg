@@ -1575,7 +1575,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SpriteOvO/spdlog-rs</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, highly configurable Rust logging crate</div>
@@ -1681,7 +1681,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stlink-org/stlink</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source STM32 MCU programming toolset</div>
@@ -1784,7 +1784,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2025, 22:13:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2025, 23:21:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
