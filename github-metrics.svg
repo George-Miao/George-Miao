@@ -1361,7 +1361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nmattia/niv</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy dependency management for Nix projects</div>
@@ -1414,7 +1414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/lanzaboote</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]</div>
@@ -1570,7 +1570,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2025, 14:14:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2025, 15:01:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
