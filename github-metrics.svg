@@ -88,13 +88,13 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            61 Issues opened
+                            63 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            528 issue comments
+                            530 issue comments
                         </div>
                     </section>
                     <section>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.1309212170564" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="309.1309212170564" y="0" width="51.12000192431121" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="360.2509231413676" y="0" width="23.617793073183666" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.8687162145513" y="0" width="19.574287212834687" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="403.443003427386" y="0" width="13.45464903027622" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.89765245766216" y="0" width="11.60494008234644" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.5025925400086" y="0" width="8.795428118176176" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.2980206581848" y="0" width="22.701979341815164" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.13046781520893" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="309.13046781520893" y="0" width="51.11992694668287" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="360.2503947618918" y="0" width="23.617758433002827" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.8681531948946" y="0" width="19.574258503257685" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="403.4424116981523" y="0" width="13.454629296363144" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.8970409945154" y="0" width="11.604923061398637" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.5019640559141" y="0" width="8.795415217935258" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.2973792738493" y="0" width="22.702620726150677" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1328,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pyproject-nix/pyproject.nix</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]</div>
@@ -1381,7 +1381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/poetry2nix</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert poetry projects to nix automagically [maintainer=]</div>
@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Watchful1/PushshiftDumps</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example scripts for the pushshift dump files</div>
@@ -1487,7 +1487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pushshift/api</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pushshift API</div>
@@ -1531,7 +1531,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Oct 2025, 01:01:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Oct 2025, 02:13:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
