@@ -1356,7 +1356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuickChick/QuickChick</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Randomized Property-Based Testing Plugin for Coq</div>
@@ -1409,7 +1409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>community-scripts/ProxmoxVE</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxmox VE Helper-Scripts (Community Edition)</div>
@@ -1462,7 +1462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>louislam/dockge</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager</div>
@@ -1565,7 +1565,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Oct 2025, 14:13:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2025, 15:01:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
