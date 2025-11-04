@@ -1356,7 +1356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/tvm</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open deep learning compiler stack for cpu, gpu and specialized accelerators</div>
@@ -1409,7 +1409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ise-uiuc/tzer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tzer: TVM Implementation of "Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA'22)“.</div>
@@ -1462,7 +1462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>filebrowser/filebrowser</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📂 Web File Browser</div>
@@ -1515,7 +1515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AeneasVerif/aeneas</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A verification toolchain for Rust programs</div>
@@ -1565,7 +1565,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2025, 17:01:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2025, 18:01:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
