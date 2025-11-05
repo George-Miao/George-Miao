@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.9305767382737" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="308.9305767382737" y="0" width="51.541823561841376" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="360.4724003001151" y="0" width="23.56012660079898" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="384.0325269009141" y="0" width="19.526493581587637" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="403.55902048250175" y="0" width="13.42691250194595" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.9859329844477" y="0" width="11.57660483718992" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.56253782163765" y="0" width="8.77395272836661" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.33649055000427" y="0" width="22.663509449995843" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.9318423499901" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="308.9318423499901" y="0" width="51.54203471586982" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="360.47387706586" y="0" width="23.560223120776325" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="384.0341001866363" y="0" width="19.526573576773995" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="403.5606737634103" y="0" width="13.426967508666092" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.9876412720764" y="0" width="11.576652263659884" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.5642935357363" y="0" width="8.773988673068134" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.33828220880446" y="0" width="22.661717791195613" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1361,7 +1361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/tvm</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open deep learning compiler stack for cpu, gpu and specialized accelerators</div>
@@ -1414,7 +1414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ise-uiuc/tzer</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tzer: TVM Implementation of "Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA'22)“.</div>
@@ -1467,7 +1467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>filebrowser/filebrowser</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📂 Web File Browser</div>
@@ -1520,7 +1520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AeneasVerif/aeneas</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A verification toolchain for Rust programs</div>
@@ -1570,7 +1570,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2025, 19:43:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2025, 21:25:37 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
