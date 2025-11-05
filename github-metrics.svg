@@ -1361,7 +1361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>femtovg/femtovg</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Antialiased 2D vector drawing library written in Rust</div>
@@ -1414,7 +1414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/tvm</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open deep learning compiler stack for cpu, gpu and specialized accelerators</div>
@@ -1467,7 +1467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ise-uiuc/tzer</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tzer: TVM Implementation of "Coverage-Guided Tensor Compiler Fuzzing with Joint IR-Pass Mutation (OOPSLA'22)“.</div>
@@ -1520,7 +1520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>filebrowser/filebrowser</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📂 Web File Browser</div>
@@ -1570,7 +1570,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2025, 14:01:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2025, 15:01:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
