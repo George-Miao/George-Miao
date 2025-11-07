@@ -1334,7 +1334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seL4/microkit</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Microkit - A simple operating system framework for the seL4 microkernel</div>
@@ -1387,7 +1387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>llvm/llvm-project</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</div>
@@ -1440,7 +1440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>artisan-archived-projects/Fuzzing-Scripts</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1488,7 +1488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cbeuw/rustlantis</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UB-free and deterministic rustc fuzzer</div>
@@ -1538,7 +1538,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2025, 15:01:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2025, 16:01:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
