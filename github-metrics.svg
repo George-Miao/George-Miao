@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>4vtomat/HTM</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a Halide language To MLIR compiler.</div>
@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seL4/microkit</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Microkit - A simple operating system framework for the seL4 microkernel</div>
@@ -1531,7 +1531,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2025, 04:01:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Nov 2025, 05:01:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
