@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.85502043185403" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="308.85502043185403" y="0" width="51.529217785308724" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="360.38423821716276" y="0" width="23.554364412531537" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.9386026296943" y="0" width="19.614843168552262" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="403.55344579824657" y="0" width="13.423628631744501" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.97707442999103" y="0" width="11.58588516970375" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.56295959969475" y="0" width="8.771806849937043" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.3347664496318" y="0" width="22.66523355036815" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.85384580503506" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="308.85384580503506" y="0" width="51.529021811155275" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="360.38286761619037" y="0" width="23.5542748313808" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.93714244757115" y="0" width="19.61476857005358" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="403.5519110176248" y="0" width="13.423577579460565" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.9754885970853" y="0" width="11.585841106662707" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.5613297037481" y="0" width="8.771773489302133" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.3331031930502" y="0" width="22.666896806949847" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>4vtomat/HTM</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a Halide language To MLIR compiler.</div>
@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seL4/microkit</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Microkit - A simple operating system framework for the seL4 microkernel</div>
@@ -1433,7 +1433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>llvm/llvm-project</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</div>
@@ -1486,7 +1486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>artisan-archived-projects/Fuzzing-Scripts</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1531,7 +1531,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2025, 19:39:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2025, 21:17:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
