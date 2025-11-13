@@ -1366,7 +1366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fcorbelli/zpaqfranz</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deduplicating archiver with encryption and paranoid-level tests. Swiss army knife for the serious backup and disaster recovery manager. Ransomware neutralizer. Win/Linux/Unix</div>
@@ -1519,7 +1519,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>llvm/llvm-project</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</div>
@@ -1569,7 +1569,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2025, 00:01:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2025, 01:14:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
