@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.85095445400657" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="308.85095445400657" y="0" width="51.52853941958969" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="360.3794938735963" y="0" width="23.554054326835736" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.933548200432" y="0" width="19.61458494539729" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="403.5481331458293" y="0" width="13.423451913954475" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.97158505978376" y="0" width="11.585732645220329" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.55731770500404" y="0" width="8.771691371897267" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.32900907690134" y="0" width="22.67099092309866" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.8493280928427" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="308.8493280928427" y="0" width="51.528268078303114" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="360.3775961711458" y="0" width="23.553930294843422" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.93152646598924" y="0" width="19.61448165803897" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="403.5460081240282" y="0" width="13.42338122814126" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.96938935216946" y="0" width="11.585671636551398" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.55506098872087" y="0" width="8.771645181532683" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.32670617025354" y="0" width="22.673293829746463" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1339,7 +1339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jbaubree/vite-plugin-sitemap</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sitemap generator plugin for Vite</div>
@@ -1542,7 +1542,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2025, 19:41:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2025, 21:21:19 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
