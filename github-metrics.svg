@@ -1366,7 +1366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rk8s-dev/rk8s</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Lite Version of Kubernetes in Rust</div>
@@ -1419,7 +1419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bajrangCoder/zed-unocss</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UnoCSS extension for Zed</div>
@@ -1466,7 +1466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>typescript-language-server/typescript-language-server</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript &amp; JavaScript Language Server</div>
@@ -1569,7 +1569,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2025, 21:23:23 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2025, 22:37:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
