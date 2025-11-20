@@ -1366,7 +1366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/kimojio-rs</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A thread-per-core Linux io_uring async runtime for Rust optimized for latency.</div>
@@ -1419,7 +1419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zed-extensions/git_firefly</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1473,7 +1473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zed-extensions/typst</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Typst extension for zed</div>
@@ -1526,7 +1526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rk8s-dev/rk8s</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Lite Version of Kubernetes in Rust</div>
@@ -1576,7 +1576,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2025, 16:08:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2025, 17:01:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
