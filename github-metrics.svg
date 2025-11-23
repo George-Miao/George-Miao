@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="191.17411032959663" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="191.17411032959663" y="0" width="173.14120897607276" height="8" fill="#d0b68c"/>
-                    <rect mask="url(#languages-bar)" x="364.31531930566933" y="0" width="32.31846508156165" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="396.633784387231" y="0" width="14.531543411236497" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="411.1653277984675" y="0" width="13.005353179077076" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="424.1706809775446" y="0" width="8.305833447717502" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="432.4765144252621" y="0" width="7.17139480718813" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="439.6479092324503" y="0" width="20.35209076754976" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="191.17303716510904" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="191.17303716510904" y="0" width="173.14023704008994" height="8" fill="#d0b68c"/>
+                    <rect mask="url(#languages-bar)" x="364.313274205199" y="0" width="32.31828366040081" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="396.63155786559975" y="0" width="14.53146183776239" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.1630197033621" y="0" width="13.005280172940648" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="424.1682998763028" y="0" width="8.305786822546967" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="432.47408669884976" y="0" width="7.171354550240052" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="439.6454412490898" y="0" width="20.354558750910165" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustCrypto/formats</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX</div>
@@ -1542,7 +1542,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2025, 19:48:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2025, 21:50:54 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
