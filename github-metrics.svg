@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="191.17303716510904" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="191.17303716510904" y="0" width="173.14023704008994" height="8" fill="#d0b68c"/>
-                    <rect mask="url(#languages-bar)" x="364.313274205199" y="0" width="32.31828366040081" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="396.63155786559975" y="0" width="14.53146183776239" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="411.1630197033621" y="0" width="13.005280172940648" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="424.1682998763028" y="0" width="8.305786822546967" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="432.47408669884976" y="0" width="7.171354550240052" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="439.6454412490898" y="0" width="20.354558750910165" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="191.17369490965604" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="191.17369490965604" y="0" width="173.14083274149465" height="8" fill="#d0b68c"/>
+                    <rect mask="url(#languages-bar)" x="364.3145276511507" y="0" width="32.31839485377389" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="396.6329225049246" y="0" width="14.531511834299168" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.16443433922376" y="0" width="13.005324918539937" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="424.1697592577637" y="0" width="8.305815399202295" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="432.475574656966" y="0" width="7.171379223799774" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="439.64695388076575" y="0" width="20.35304611923428" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1351,7 +1351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ArthurHeitmann/arctic_shift</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Making Reddit data accessible to researchers, moderators and everyone else.  Interact with the data through large dumps, an API or web interface.</div>
@@ -1398,7 +1398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ArthurHeitmann/arctic_shift_ui</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web UI for searching and downloading archived Reddit data, from the Arctic Shift project</div>
@@ -1542,7 +1542,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2025, 19:45:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Nov 2025, 21:45:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
