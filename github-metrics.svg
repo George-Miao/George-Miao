@@ -1339,7 +1339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bootandy/dust</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A more intuitive version of du in rust</div>
@@ -1392,7 +1392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>icloud-photos-downloader/icloud_photos_downloader</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command-line tool to download photos from iCloud</div>
@@ -1445,7 +1445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simulot/immich-go</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.</div>
@@ -1498,7 +1498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anchore/grype</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A vulnerability scanner for container images and filesystems</div>
@@ -1548,7 +1548,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2025, 13:12:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2025, 14:01:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
