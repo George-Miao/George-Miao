@@ -1334,7 +1334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ReadYouApp/ReadYou</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Android RSS reader presented in Material You style.</div>
@@ -1387,7 +1387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>donlon/cloudflare-error-page</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cloudflare error page generator</div>
@@ -1543,7 +1543,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Dec 2025, 16:01:53 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2025, 17:01:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
