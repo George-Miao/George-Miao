@@ -1344,7 +1344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plctlab/weloveinterns</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PLCT实验室实习生社区。</div>
@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libuv/libuv</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform asynchronous I/O</div>
@@ -1450,7 +1450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MagicStack/uvloop</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ultra fast asyncio event loop.</div>
@@ -1503,7 +1503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fantix/kloop</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An asyncio event loop using Linux io_uring and kTLS.</div>
@@ -1553,7 +1553,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2025, 16:01:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2025, 17:01:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
