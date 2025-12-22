@@ -1404,7 +1404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libuv/libuv</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform asynchronous I/O</div>
@@ -1457,7 +1457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MagicStack/uvloop</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ultra fast asyncio event loop.</div>
@@ -1510,7 +1510,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fantix/kloop</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An asyncio event loop using Linux io_uring and kTLS.</div>
@@ -1560,7 +1560,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2025, 10:01:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2025, 11:11:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
