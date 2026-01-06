@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.4196636748169" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="189.4196636748169" y="0" width="171.5522542040648" height="8" fill="#d0b68c"/>
-                    <rect mask="url(#languages-bar)" x="360.9719178788817" y="0" width="32.021871453626325" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="392.993789332508" y="0" width="14.39818425668008" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="407.3919735891881" y="0" width="14.152068503043434" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="421.5440420922315" y="0" width="8.229608996182813" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="429.77365108841434" y="0" width="7.105581347364078" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="436.87923243577836" y="0" width="23.1207675642216" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.41969766074087" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="189.41969766074087" y="0" width="171.55228498419478" height="8" fill="#d0b68c"/>
+                    <rect mask="url(#languages-bar)" x="360.9719826449356" y="0" width="32.02187719903242" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="392.9938598439681" y="0" width="14.398186840021145" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.39204668398924" y="0" width="14.152071042226087" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="421.54411772621535" y="0" width="8.22961047275003" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="429.7737281989654" y="0" width="7.105582622256782" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="436.87931082122213" y="0" width="23.120689178777905" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1356,7 +1356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>compio-rs/synchrony</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library that provides both sync and unsync versions of common synchronization primitives.</div>
@@ -1403,7 +1403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fast/mea</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mea provides async primitives and combinators that are runtime agnostic.</div>
@@ -1559,7 +1559,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2026, 19:46:16 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2026, 21:50:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
