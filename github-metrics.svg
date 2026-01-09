@@ -1328,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fjall-rs/fjall</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🗻 Log-structured, embeddable key-value storage engine written in Rust</div>
@@ -1531,7 +1531,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jan 2026, 22:56:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jan 2026, 23:31:21 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
