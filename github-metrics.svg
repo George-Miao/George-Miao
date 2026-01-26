@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.42394599728098" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="189.42394599728098" y="0" width="171.55613258742633" height="8" fill="#d0b68c"/>
-                    <rect mask="url(#languages-bar)" x="360.9800785847073" y="0" width="32.022595391029704" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="393.002673975737" y="0" width="14.398509764954607" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="407.4011837406916" y="0" width="14.152388447233433" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="421.55357218792506" y="0" width="8.229795047824926" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="429.78336723574995" y="0" width="7.105741987447763" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="436.88910922319775" y="0" width="23.110890776802243" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.42418390976187" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="189.42418390976187" y="0" width="171.55634805831042" height="8" fill="#d0b68c"/>
+                    <rect mask="url(#languages-bar)" x="360.9805319680723" y="0" width="32.02263561073409" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="393.0031675788063" y="0" width="14.398527849179183" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.40169542798554" y="0" width="14.152406222334822" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="421.5541016503204" y="0" width="8.229805384273924" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="429.7839070345943" y="0" width="7.1057509121098255" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="436.8896579467041" y="0" width="23.11034205329585" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1351,7 +1351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qifi-dev/qrs</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stream data through multiple series of QR codes</div>
@@ -1404,7 +1404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matt8707/ha-fusion</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern, easy-to-use and performant custom Home Assistant dashboard</div>
@@ -1457,7 +1457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matt8707/addon-ha-fusion</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ha-fusion addon</div>
@@ -1555,7 +1555,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jan 2026, 19:52:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jan 2026, 22:06:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
