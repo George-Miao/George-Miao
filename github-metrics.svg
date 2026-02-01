@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matt8707/ha-fusion</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern, easy-to-use and performant custom Home Assistant dashboard</div>
@@ -1547,7 +1547,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Feb 2026, 02:28:53 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Feb 2026, 03:17:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
