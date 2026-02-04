@@ -1361,7 +1361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>verus-lang/verus-analyzer</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Verus compiler front-end for IDEs (derived from rust-analyzer)</div>
@@ -1414,7 +1414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wolfpld/tracy</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Frame profiler</div>
@@ -1570,7 +1570,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2026, 15:19:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Feb 2026, 16:22:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
