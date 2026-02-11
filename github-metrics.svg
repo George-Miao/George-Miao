@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.4553896114151" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="189.4553896114151" y="0" width="171.58461021630802" height="8" fill="#d0b68c"/>
-                    <rect mask="url(#languages-bar)" x="361.0399998277231" y="0" width="32.027911013232305" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="393.0679108409554" y="0" width="14.40089985973788" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="407.46881070069327" y="0" width="14.076893646283915" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="421.5457043469772" y="0" width="8.231161160744408" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="429.7768655077216" y="0" width="7.106921512074457" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="436.88378701979605" y="0" width="23.116212980203947" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.45528761525276" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="189.45528761525276" y="0" width="171.58451784114894" height="8" fill="#d0b68c"/>
+                    <rect mask="url(#languages-bar)" x="361.03980545640167" y="0" width="32.027893770524045" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="393.06769922692575" y="0" width="14.400892106796553" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.46859133372226" y="0" width="14.076886067776213" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="421.5454774014985" y="0" width="8.23115672937483" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="429.77663413087333" y="0" width="7.106917685956227" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="436.88355181682954" y="0" width="23.11644818317046" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1355,7 +1355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>proptest-rs/proptest</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hypothesis-like property testing for Rust</div>
@@ -1408,7 +1408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>insin/control-panel-for-twitter</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile</div>
@@ -1564,7 +1564,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2026, 20:07:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2026, 23:17:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
