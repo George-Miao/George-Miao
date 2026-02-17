@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cryspen/libcrux</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The formally verified crypto library for Rust</div>
@@ -1403,7 +1403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matthewbauer/undmg</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">extract a dmg file</div>
@@ -1456,7 +1456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>secure-foundations/verdict</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Formally Verified X.509 Certificate Validation</div>
@@ -1509,7 +1509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rsmpi/rsmpi</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MPI bindings for Rust</div>
@@ -1559,7 +1559,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2026, 17:17:21 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Feb 2026, 18:17:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
