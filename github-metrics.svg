@@ -1299,7 +1299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>troinine/ha-weather-forecast-card</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">☀️ Slightly improved weather forecast card for Home Assistant</div>
@@ -1352,7 +1352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mawinkler/astrolive</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Asynchronous ASCOM integration for Home Assistant</div>
@@ -1405,7 +1405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mawinkler/astroweather</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Asynchronous Astro Weather Forecast for Home Assistant</div>
@@ -1458,7 +1458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Madelena/hass-config-public</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!</div>
@@ -1502,7 +1502,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Feb 2026, 02:41:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Feb 2026, 03:30:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
