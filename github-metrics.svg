@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2940 Commits
+                            2941 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.40944541613607" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="189.40944541613607" y="0" width="171.4512625435782" height="8" fill="#d0b68c"/>
-                    <rect mask="url(#languages-bar)" x="360.8607079597142" y="0" width="32.15957730279851" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="393.02028526251274" y="0" width="14.3530022281763" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="407.37328749068905" y="0" width="14.201889341441749" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="421.57517683213075" y="0" width="8.224764280608913" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="429.7999411127397" y="0" width="7.101398339321879" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="436.90133945206156" y="0" width="23.098660547938426" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.40890199244222" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="189.40890199244222" y="0" width="171.45077064266906" height="8" fill="#d0b68c"/>
+                    <rect mask="url(#languages-bar)" x="360.8596726351113" y="0" width="32.158247761160844" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="393.01792039627213" y="0" width="14.35296104880707" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.3708814450792" y="0" width="14.20184859562177" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="421.572730040701" y="0" width="8.224740683413026" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="429.79747072411396" y="0" width="7.101377965110295" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="436.8988486892243" y="0" width="23.10115131077573" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1344,7 +1344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytecodealliance/cap-std</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Capability-oriented version of the Rust standard library</div>
@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tomaae/homeassistant-truenas</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TrueNAS integration for Home Assistant</div>
@@ -1450,7 +1450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0x676e67/wreq</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An ergonomic Rust HTTP Client with TLS fingerprint</div>
@@ -1553,7 +1553,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2026, 12:15:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Feb 2026, 13:17:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
