@@ -1351,7 +1351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytecodealliance/cap-std</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Capability-oriented version of the Rust standard library</div>
@@ -1560,7 +1560,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2026, 02:45:16 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Feb 2026, 03:33:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
