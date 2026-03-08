@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.91311770027798" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="190.91311770027798" y="0" width="170.184179176577" height="8" fill="#d0b68c"/>
-                    <rect mask="url(#languages-bar)" x="361.097296876855" y="0" width="31.920678912528196" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="393.0179757893832" y="0" width="14.52301318606641" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="407.5409889754496" y="0" width="14.246928641315248" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="421.78791761676484" y="0" width="8.163980464480316" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="429.95189808124513" y="0" width="7.048916581038428" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="437.0008146622835" y="0" width="22.99918533771641" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.91291381622685" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="190.91291381622685" y="0" width="170.18399742982066" height="8" fill="#d0b68c"/>
+                    <rect mask="url(#languages-bar)" x="361.0969112460475" y="0" width="31.920644823108834" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="393.0175560691563" y="0" width="14.522997676337175" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="407.54055374549347" y="0" width="14.246913426428172" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.78746717192166" y="0" width="8.163971745826352" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="429.95143891774796" y="0" width="7.048909053207518" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="437.0003479709555" y="0" width="22.99965202904445" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1344,7 +1344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oauth2-proxy/oauth2-proxy</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</div>
@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ateodorescu/home-assistant-ipmi</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">IPMI connector for Home Assistant</div>
@@ -1553,7 +1553,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2026, 19:58:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Mar 2026, 22:28:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
