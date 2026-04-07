@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.66334954312106" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="194.66334954312106" y="0" width="167.65797529095994" height="8" fill="#d0b68c"/>
-                    <rect mask="url(#languages-bar)" x="362.32132483408094" y="0" width="31.446850243550116" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="393.7681750776311" y="0" width="14.54731802039407" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="408.3154930980251" y="0" width="14.035448075577952" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="422.3509411736031" y="0" width="8.042794821541827" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="430.3937359951449" y="0" width="6.944282880405574" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="437.33801887555046" y="0" width="22.661981124449472" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.66300820471113" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="194.66300820471113" y="0" width="167.6576813059503" height="8" fill="#d0b68c"/>
+                    <rect mask="url(#languages-bar)" x="362.32068951066145" y="0" width="31.44679510210781" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="393.76748461276924" y="0" width="14.547292511953916" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="408.31477712472315" y="0" width="14.035423464691828" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="422.350200589415" y="0" width="8.042780718657015" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="430.392981308072" y="0" width="6.944270703740156" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="437.33725201181215" y="0" width="22.662747988187853" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1510,7 +1510,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pStrikeZ/RhythKeyPro</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">便携式多功能音乐游戏控制器</div>
@@ -1554,7 +1554,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2026, 21:07:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Apr 2026, 00:21:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
