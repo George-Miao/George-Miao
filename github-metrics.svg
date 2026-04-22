@@ -1299,7 +1299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lmr97/linux-3-finger-drag</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Allows three finger dragging on trackpad, like on Mac OS X laptops.</div>
@@ -1405,7 +1405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/terraform-ls</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terraform Language Server</div>
@@ -1502,7 +1502,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2026, 12:56:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2026, 13:50:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
