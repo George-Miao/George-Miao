@@ -1361,7 +1361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/Webwright</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.</div>
@@ -1414,7 +1414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>omxyz/lumen</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A vision-first browser agent with self-healing deterministic replay.</div>
@@ -1467,7 +1467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reworkd/tarsier</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vision utilities for web interaction agents 👀</div>
@@ -1520,7 +1520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/OmniParser</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple screen parsing tool towards pure vision based GUI agent</div>
@@ -1570,7 +1570,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2026, 15:02:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2026, 16:58:21 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
