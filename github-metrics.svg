@@ -1423,7 +1423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AprilNEA/OpenLogi</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.</div>
@@ -1476,7 +1476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vosen/ZLUDA</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CUDA on non-NVIDIA GPUs</div>
@@ -1632,7 +1632,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2026, 00:51:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2026, 03:07:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
