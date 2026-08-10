@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>czottmann/pi-automode</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Think Claude Code's auto mode but for pi. Selectable model, sensible defaults.</div>
@@ -1426,7 +1426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>George-Miao/UpGrid</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed uptime monitoring that stays available with your infrastructure.</div>
@@ -1473,7 +1473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uazo/cromite</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!</div>
@@ -1526,7 +1526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KDE/kdeconnect-kde</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-platform app that allows your devices to communicate</div>
@@ -1570,7 +1570,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2026, 18:23:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Aug 2026, 19:22:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
