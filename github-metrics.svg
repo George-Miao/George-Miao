@@ -1378,7 +1378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numtide/llm-agents.nix</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nix packages for AI coding agents and development tools. Automatically updated daily.</div>
@@ -1431,7 +1431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stablyai/orca</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.</div>
@@ -1484,7 +1484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>czottmann/pi-automode</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Think Claude Code's auto mode but for pi. Selectable model, sensible defaults.</div>
@@ -1537,7 +1537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>George-Miao/UpGrid</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed uptime monitoring that stays available with your infrastructure.</div>
@@ -1581,7 +1581,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2026, 06:39:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2026, 07:34:30 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
