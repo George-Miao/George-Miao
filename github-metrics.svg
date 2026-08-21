@@ -1356,7 +1356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/zmij</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast floating point to string conversion</div>
@@ -1409,7 +1409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ghostty-org/ghostty</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</div>
@@ -1503,7 +1503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GitoxideLabs/cargo-smart-release</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Release complex cargo-workspaces automatically with changelog generation, used by `gitoxide`</div>
@@ -1553,7 +1553,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2026, 20:29:34 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2026, 22:15:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
